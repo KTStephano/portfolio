@@ -12,7 +12,7 @@
 	<atom:link href="/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>/portfolio/</link>
 	<description>A few projects I&#039;ve worked on</description>
-	<lastBuildDate>Wed, 04 Dec 2024 10:30:39 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 04 Dec 2024 11:11:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -227,13 +227,13 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/portfolio/?p=87</guid>
 
-					<description><![CDATA[Peaches is a programmable Discord bot written in Go. It is used to create custom slash commands and scripted actions that trigger based on specific server events. It features a backend database that can be used for storing long term server-specific data. It currently operates in more than 300 servers. Documentation: https://www.peaches-bot.xyz/ Invite Peaches!]]></description>
+					<description><![CDATA[Peaches is a programmable Discord bot written in Go. It is used to create custom slash commands and scripted actions that trigger based on specific server events. It exposes a backend database for scripts to use for storing, retrieving and manipulating server-specific data. There are currently more than 300 servers that use the bot. Documentation: &#8230; <a href="/portfolio/peaches/" class="more-link">Continue reading<span class="screen-reader-text"> "Peaches Programmable Discord Bot [Go, PostgreSQL]"</span></a>]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="656" height="624" src="/portfolio/wp-content/uploads/2024/12/logo.png" alt="" class="wp-image-88" srcset="/portfolio/wp-content/uploads/2024/12/logo.png 656w, /portfolio/wp-content/uploads/2024/12/logo-300x285.png 300w" sizes="auto, (max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></figure>
 
 
 
-<p>Peaches is a programmable Discord bot written in Go. It is used to create custom slash commands and scripted actions that trigger based on specific server events. It features a backend database that can be used for storing long term server-specific data. It currently operates in more than 300 servers.</p>
+<p>Peaches is a programmable Discord bot written in Go. It is used to create custom slash commands and scripted actions that trigger based on specific server events. It exposes a backend database for scripts to use for storing, retrieving and manipulating server-specific data. There are currently more than 300 servers that use the bot.</p>
 
 
 
