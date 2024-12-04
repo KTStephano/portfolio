@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Interactive Software Raytracing [Modern C++, GPU Compute]	</title>
-	<atom:link href="/software-rt/feed/" rel="self" type="application/rss+xml" />
-	<link>/software-rt/</link>
+	<atom:link href="/portfolio/software-rt/feed/" rel="self" type="application/rss+xml" />
+	<link>/portfolio/software-rt/</link>
 	<description>A few projects I&#039;ve worked on</description>
 	<lastBuildDate>Wed, 04 Dec 2024 08:53:13 +0000</lastBuildDate>
 	<sy:updatePeriod>
