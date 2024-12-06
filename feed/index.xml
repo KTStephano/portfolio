@@ -12,7 +12,7 @@
 	<atom:link href="/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>/portfolio/</link>
 	<description>A few projects I&#039;ve worked on</description>
-	<lastBuildDate>Wed, 04 Dec 2024 11:11:04 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 06 Dec 2024 05:35:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,7 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>StratusGFX Realtime Rendering Engine [Modern C++, OpenGL]</title>
+		<title>StratusGFX Realtime Rendering Engine [C++, OpenGL]</title>
 		<link>/portfolio/stratusgfx/</link>
 		
 		<dc:creator><![CDATA[J Stephano]]></dc:creator>
@@ -36,7 +36,7 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/portfolio/?p=24</guid>
 
-					<description><![CDATA[A 3D rendering engine supporting modern graphics features such as physically based rendering, volumetric lighting and realtime global illumination. It works on older hardware (GTX 10-series minimum). It uses a deferred, GPU-driven rendering pipeline with support for large numbers of shadow-casting local lights. GitHub Repo Here are links to the 3D models that were used &#8230; <a href="/portfolio/stratusgfx/" class="more-link">Continue reading<span class="screen-reader-text"> "StratusGFX Realtime Rendering Engine [Modern C++, OpenGL]"</span></a>]]></description>
+					<description><![CDATA[A 3D rendering engine supporting modern graphics features such as physically based rendering, volumetric lighting and realtime global illumination. It works on older hardware (GTX 10-series minimum). It uses a deferred, GPU-driven rendering pipeline with support for large numbers of shadow-casting local lights. GitHub Repo Here are links to the 3D models that were used &#8230; <a href="/portfolio/stratusgfx/" class="more-link">Continue reading<span class="screen-reader-text"> "StratusGFX Realtime Rendering Engine [C++, OpenGL]"</span></a>]]></description>
 										<content:encoded><![CDATA[
 <p>A 3D rendering engine supporting modern graphics features such as physically based rendering, volumetric lighting and realtime global illumination. It works on older hardware (GTX 10-series minimum). It uses a deferred, GPU-driven rendering pipeline with support for large numbers of shadow-casting local lights.</p>
 
@@ -143,7 +143,7 @@
 		
 			</item>
 		<item>
-		<title>Virtual Shadow Maps [Modern C++, OpenGL]</title>
+		<title>Virtual Shadow Maps [C++, OpenGL]</title>
 		<link>/portfolio/virtual-shadow-maps/</link>
 		
 		<dc:creator><![CDATA[J Stephano]]></dc:creator>
@@ -151,7 +151,7 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/portfolio/?p=28</guid>
 
-					<description><![CDATA[A GPU virtual memory system for computing extremely high resolution shadows while maintaining a fixed memory budget and supporting data caching. Here is a link to the full tech writeup. Cascade selection depends on distance to camera. Each square is a virtual page from a certain cascade that has been mapped to a piece of &#8230; <a href="/portfolio/virtual-shadow-maps/" class="more-link">Continue reading<span class="screen-reader-text"> "Virtual Shadow Maps [Modern C++, OpenGL]"</span></a>]]></description>
+					<description><![CDATA[A GPU virtual memory system for computing extremely high resolution shadows while maintaining a fixed memory budget and supporting data caching. Here is a link to the full tech writeup. Cascade selection depends on distance to camera. Each square is a virtual page from a certain cascade that has been mapped to a piece of &#8230; <a href="/portfolio/virtual-shadow-maps/" class="more-link">Continue reading<span class="screen-reader-text"> "Virtual Shadow Maps [C++, OpenGL]"</span></a>]]></description>
 										<content:encoded><![CDATA[
 <p>A GPU virtual memory system for computing extremely high resolution shadows while maintaining a fixed memory budget and supporting data caching. <a href="https://ktstephano.github.io/rendering/stratusgfx/svsm">Here is a link to the full tech writeup.</a></p>
 
@@ -188,7 +188,7 @@
 		
 			</item>
 		<item>
-		<title>Interactive Software Raytracing [Modern C++, GPU Compute]</title>
+		<title>Interactive Software Raytracing [C++, GPU Compute]</title>
 		<link>/portfolio/software-rt/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
