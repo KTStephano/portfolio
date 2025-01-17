@@ -12,7 +12,7 @@
 	<atom:link href="/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>/portfolio/</link>
 	<description>A few projects I&#039;ve worked on</description>
-	<lastBuildDate>Fri, 17 Jan 2025 05:59:50 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 17 Jan 2025 07:50:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -94,11 +94,11 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="577" src="/portfolio/wp-content/uploads/2024/12/Bathroom1-1024x577.png" alt="" class="wp-image-118" srcset="/portfolio/wp-content/uploads/2024/12/Bathroom1-1024x577.png 1024w, /portfolio/wp-content/uploads/2024/12/Bathroom1-300x169.png 300w, /portfolio/wp-content/uploads/2024/12/Bathroom1-768x433.png 768w, /portfolio/wp-content/uploads/2024/12/Bathroom1-1536x866.png 1536w, /portfolio/wp-content/uploads/2024/12/Bathroom1-1200x676.png 1200w, /portfolio/wp-content/uploads/2024/12/Bathroom1.png 1597w" sizes="auto, (max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="572" src="/portfolio/wp-content/uploads/2024/12/Bathroom5-1024x572.png" alt="" class="wp-image-128" srcset="/portfolio/wp-content/uploads/2024/12/Bathroom5-1024x572.png 1024w, /portfolio/wp-content/uploads/2024/12/Bathroom5-300x167.png 300w, /portfolio/wp-content/uploads/2024/12/Bathroom5-768x429.png 768w, /portfolio/wp-content/uploads/2024/12/Bathroom5-1536x857.png 1536w, /portfolio/wp-content/uploads/2024/12/Bathroom5-1200x670.png 1200w, /portfolio/wp-content/uploads/2024/12/Bathroom5.png 1598w" sizes="auto, (max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="585" src="/portfolio/wp-content/uploads/2024/12/Bathroom4-1024x585.png" alt="" class="wp-image-124" srcset="/portfolio/wp-content/uploads/2024/12/Bathroom4-1024x585.png 1024w, /portfolio/wp-content/uploads/2024/12/Bathroom4-300x172.png 300w, /portfolio/wp-content/uploads/2024/12/Bathroom4-768x439.png 768w, /portfolio/wp-content/uploads/2024/12/Bathroom4-1536x878.png 1536w, /portfolio/wp-content/uploads/2024/12/Bathroom4-1200x686.png 1200w, /portfolio/wp-content/uploads/2024/12/Bathroom4.png 1569w" sizes="auto, (max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="575" src="/portfolio/wp-content/uploads/2024/12/Bathroom6-1024x575.png" alt="" class="wp-image-129" srcset="/portfolio/wp-content/uploads/2024/12/Bathroom6-1024x575.png 1024w, /portfolio/wp-content/uploads/2024/12/Bathroom6-300x168.png 300w, /portfolio/wp-content/uploads/2024/12/Bathroom6-768x431.png 768w, /portfolio/wp-content/uploads/2024/12/Bathroom6-1536x862.png 1536w, /portfolio/wp-content/uploads/2024/12/Bathroom6-1200x674.png 1200w, /portfolio/wp-content/uploads/2024/12/Bathroom6.png 1594w" sizes="auto, (max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></figure>
 
 
 
@@ -157,17 +157,17 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">http://localhost:8883/?p=28</guid>
 
-					<description><![CDATA[A GPU virtual memory system for computing extremely high resolution shadows while maintaining a fixed memory budget and supporting data caching. => GPU Zen 3 on Amazon => Online tech writeup Cascade selection depends on distance to camera. Each square is a virtual page from a certain cascade that has been mapped to a piece &#8230; <a href="/portfolio/virtual-shadow-maps/" class="more-link">Continue reading<span class="screen-reader-text"> "GPU Zen 3 &#8211; Virtual Shadow Maps [C++, OpenGL]"</span></a>]]></description>
+					<description><![CDATA[A GPU virtual memory system for computing extremely high resolution shadows while maintaining a fixed memory budget and supporting data caching. This was published as a chapter in GPU Zen 3 (me + 3 other co-authors) and an older version is also available on my website. =&#62; GPU Zen 3 on Amazon =&#62; Online tech &#8230; <a href="/portfolio/virtual-shadow-maps/" class="more-link">Continue reading<span class="screen-reader-text"> "GPU Zen 3 &#8211; Virtual Shadow Maps [C++, OpenGL]"</span></a>]]></description>
 										<content:encoded><![CDATA[
-<p>A GPU virtual memory system for computing extremely high resolution shadows while maintaining a fixed memory budget and supporting data caching.</p>
+<p>A GPU virtual memory system for computing extremely high resolution shadows while maintaining a fixed memory budget and supporting data caching. This was published as a chapter in GPU Zen 3 (me + 3 other co-authors) and an older version is also available on my website.</p>
 
 
 
-<p><a href="https://www.amazon.com/GPU-Zen-Advanced-Rendering-Techniques/dp/B0DNXNM14K">=> GPU Zen 3 on Amazon</a></p>
+<p><a href="https://www.amazon.com/GPU-Zen-Advanced-Rendering-Techniques/dp/B0DNXNM14K">=&gt; GPU Zen 3 on Amazon</a></p>
 
 
 
-<p><a href="https://ktstephano.github.io/rendering/stratusgfx/svsm">=> Online tech writeup</a></p>
+<p><a href="https://ktstephano.github.io/rendering/stratusgfx/svsm">=&gt; Online tech writeup</a></p>
 
 
 
